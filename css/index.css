@@ -1,0 +1,19 @@
+
+.link-container {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: 900px;
+
+}
+
+.link-container a {
+    font-size: 4em;
+    font-family: Arial;
+}
+
+.welcome{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 4em;
+}

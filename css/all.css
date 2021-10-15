@@ -1,0 +1,26 @@
+body {
+    background: #f4efdB;
+}
+
+audio {
+    display:none;
+}
+
+.someText {
+    margin-top: 200px;
+    font-size: 4em;
+    font-family: Arial;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: 700px;
+    margin-left: 50px;
+    color: #8f7b59;
+}
+
+.sherb {
+    width:500px;height: 500px;
+    float: bottom;
+    float: right;
+    margin-top: 200px;
+}
